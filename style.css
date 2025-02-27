@@ -20,11 +20,11 @@ padding: 0;
 
  .direita{
     width: 340px;
-    margin-left: 1009px;
-    margin-top: -350px;
+    margin-left: 1000px;
+    margin-top: -370px;
     border: 2px solid blue;
     font-family: cursive;
- color: white;
+    color: white;
  background-color: #209cee;
 }
 
