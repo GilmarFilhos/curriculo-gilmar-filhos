@@ -1,0 +1,97 @@
+
+body{
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/background/background.jpg);
+}
+
+footer {
+bottom: 0;
+position: absolute;
+ background-color: rgb(21, 255, 0);
+ color: blue;
+padding: 0;
+ width: 100%;
+ margin: 0;
+ 
+
+ }
+
+ .direita{
+    width: 340px;
+    margin-left: 1009px;
+    margin-top: -350px;
+    border: 2px solid blue;
+    font-family: cursive;
+ color: white;
+ background-color: #209cee;
+}
+
+
+
+
+.progress-menu {
+display: inline-block;
+margin: 0;
+padding: 0;
+
+
+}
+
+.titulo1 {
+
+padding: auto;
+margin: 0;
+border: 3px  rgb(198, 236, 25) solid;
+background-color: #19c8d4;
+
+
+}
+
+.rede-social a{
+margin-left: 130px;
+font-family: cursive;
+right: 10px;
+
+
+}
+
+#CURRICULO-ONLINE{
+margin-left: 520px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+text-shadow: 2px 1px blue;
+display: block;
+}
+
+#gilmarfilho{
+margin-top: -29px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: white;
+margin-left: 30px;
+}
+
+.img-gilmarfilho{
+
+margin-top: 20px;
+
+}
+
+.linguagem-que-programo{
+background-color: #209cee;
+margin: 0;
+padding: 0;
+margin-top: 50px;
+
+color: white;
+}
+
+
+#Linguagem-queprogramo{
+    text-align: center;
+    color: rgb(255, 60, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-shadow: 2px 2px rgb(0, 0, 121);
+}
