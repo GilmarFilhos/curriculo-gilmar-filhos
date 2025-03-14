@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://curriculo-gilmar-filhos.vercel.app/</loc>
         <lastmod>2025-02-27T22:52:17+00:00</lastmod>
         <image:image>
             <image:loc>https://curriculo-gilmar-filhos.vercel.app/img/gilmar-francisco-dos-santos-filho.png</image:loc>
-            <image:title>Gilmar Francisco dos Santos Filho</image:title> <!-- título da imagem -->
-            <image:caption>Imagem do currículo de Gilmar Francisco dos Santos Filho</image:caption> <!-- descrição da imagem -->
+            <image:title>Gilmar Francisco dos Santos Filho</image:title>
+            <image:caption>Imagem do currículo de Gilmar Francisco dos Santos Filho</image:caption>
         </image:image>
     </url>
     <url>
